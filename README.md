@@ -1,1 +1,1 @@
-# React-initial-App
+# goit-react-hw-01-components
